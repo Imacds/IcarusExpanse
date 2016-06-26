@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Icarus Assets/Scenes/PlayerTestScene.unity
+- path: Assets/Icarus Assets/Scenes/MenuScene.unity
   isLoaded: 1
   isActive: 1
